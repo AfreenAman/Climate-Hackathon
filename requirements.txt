@@ -1,0 +1,12 @@
+numpy
+pandas
+GoogleNews 
+streamlit
+pydeck
+gnews
+arcgis
+geopy
+newspaper3k
+sentence_transformers
+sklearn
+gssapi==1.7.3
